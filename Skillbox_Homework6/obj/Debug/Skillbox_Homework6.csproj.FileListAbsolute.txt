@@ -6,3 +6,11 @@ D:\Проекты C#\Skillbox_Homework6\Skillbox_Homework6\obj\Debug\Skillbox_Ho
 D:\Проекты C#\Skillbox_Homework6\Skillbox_Homework6\obj\Debug\Skillbox_Homework6.csproj.CoreCompileInputs.cache
 D:\Проекты C#\Skillbox_Homework6\Skillbox_Homework6\obj\Debug\Skillbox_Homework6.exe
 D:\Проекты C#\Skillbox_Homework6\Skillbox_Homework6\obj\Debug\Skillbox_Homework6.pdb
+D:\Проекты C#\Skillbox_Homework6\SkillBox-HW6\Skillbox_Homework6\bin\Debug\Skillbox_Homework6.exe.config
+D:\Проекты C#\Skillbox_Homework6\SkillBox-HW6\Skillbox_Homework6\bin\Debug\Skillbox_Homework6.exe
+D:\Проекты C#\Skillbox_Homework6\SkillBox-HW6\Skillbox_Homework6\bin\Debug\Skillbox_Homework6.pdb
+D:\Проекты C#\Skillbox_Homework6\SkillBox-HW6\Skillbox_Homework6\obj\Debug\Skillbox_Homework6.csproj.AssemblyReference.cache
+D:\Проекты C#\Skillbox_Homework6\SkillBox-HW6\Skillbox_Homework6\obj\Debug\Skillbox_Homework6.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\Skillbox_Homework6\SkillBox-HW6\Skillbox_Homework6\obj\Debug\Skillbox_Homework6.csproj.CoreCompileInputs.cache
+D:\Проекты C#\Skillbox_Homework6\SkillBox-HW6\Skillbox_Homework6\obj\Debug\Skillbox_Homework6.exe
+D:\Проекты C#\Skillbox_Homework6\SkillBox-HW6\Skillbox_Homework6\obj\Debug\Skillbox_Homework6.pdb

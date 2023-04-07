@@ -14,7 +14,7 @@ namespace Skillbox_Homework6
         {
             while (true)
             {
-                Console.WriteLine("Введите 1 чтобы внести информцию в файл.\nВведите 2 чтобы считать информцию из файла.");
+                Console.WriteLine("Введите 1 чтобы внести информцию в файл.\nВведите 2 чтобы считать информцию из файла.\nВведите 3 чтобы закрыть программу");
                 int choice = int.Parse(Console.ReadLine());
 
                 if (choice == 1)
@@ -71,6 +71,11 @@ namespace Skillbox_Homework6
                         }
                     }
                     #endregion
+                }
+
+                if (choice == 3)
+                {
+                    Environment.Exit(0);
                 }
                 else
                 {
